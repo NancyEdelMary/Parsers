@@ -1,7 +1,8 @@
-haystack link
-https://colab.research.google.com/drive/1DnJd256FVcOIYyh19sTU1cGscBo9RzHc?usp=sharing#scrollTo=Gskw…
-
-
+gpt_5 
+https://colab.research.google.com/drive/1R6eVwbJkqxXAqxQmF-dXGuUDpuz2vFLD?usp=sharing
+gpt 4 
+https://colab.research.google.com/drive/1xlYb2975aRiB3IxuXzH_QmD3XfWW_KaS?usp=sharing
+ 
 Docling:
 https://colab.research.google.com/drive/11k2duQakEBc_Q2CAV6KOh4oP7wvLu63p?usp=sharing
 
@@ -10,5 +11,6 @@ https://codecut.ai/docling-pdf-rag-document-processing/#enable-image-extraction
 
 Partcipants trial:
 https://colab.research.google.com/drive/1YMR83p8uFn8c1L0nvo2nxbjfrPwJuflT?usp=sharing
+
 
 
