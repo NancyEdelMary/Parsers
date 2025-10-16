@@ -1,6 +1,10 @@
- on going haystack link
+haystack link
 https://colab.research.google.com/drive/1DnJd256FVcOIYyh19sTU1cGscBo9RzHc?usp=sharing#scrollTo=Gskw…
 
 
 Docling:
-https://colab.research.google.com/drive/1N06tk1c_qAXVNprralKeL30ZHF4avFXm?usp=sharing#scrollTo=h86arVjZ9kOt
+https://colab.research.google.com/drive/11k2duQakEBc_Q2CAV6KOh4oP7wvLu63p?usp=sharing
+
+Notes:
+https://codecut.ai/docling-pdf-rag-document-processing/#enable-image-extraction
+
