@@ -8,3 +8,7 @@ https://colab.research.google.com/drive/11k2duQakEBc_Q2CAV6KOh4oP7wvLu63p?usp=sh
 Notes:
 https://codecut.ai/docling-pdf-rag-document-processing/#enable-image-extraction
 
+Partcipants trial:
+https://colab.research.google.com/drive/1YMR83p8uFn8c1L0nvo2nxbjfrPwJuflT?usp=sharing
+
+
